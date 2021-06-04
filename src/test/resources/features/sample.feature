@@ -1,3 +1,6 @@
+@sample
 Feature:
-  Scenario:
+  Scenario Outline:
     Given
+    Examples:
+      |  |

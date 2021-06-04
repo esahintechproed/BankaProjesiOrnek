@@ -1,7 +1,5 @@
 package com.bankaprojesi.utilities;
 
-import com.gmibank.pojos.*;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
@@ -11,6 +9,7 @@ import java.util.List;
 import java.util.Map;
 
 public class WriteToTxt {
+    /*
 
     public static void saveDataInFileWithSSN(String fileName, Customer[] customers) {
         try {
@@ -48,7 +47,7 @@ public class WriteToTxt {
             writer.close();
         } catch (Exception e) {
         }
-    }*/
+    }
 
     public static void saveDataInFileSsn(String fileName, Customer5 customer) {
         try {
@@ -209,5 +208,6 @@ public class WriteToTxt {
 
 
     }
+    */
 
 }
